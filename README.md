@@ -2,12 +2,12 @@
 
 # Halo, Saya M. Azril Rayzicho Sorongan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Mahasiswa+S1+Sistem+Informasi;Universitas+Malikussaleh" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=...............+........+........+.......;.........." alt="Typing SVG" />
 
 </div>
 
 ### Tentang Saya
-Mahasiswa S1 Sistem Informasi di Universitas Malikussaleh yang tertarik mempelajari web development dan teknologi komputer.
+Saya Mahasiswa S1 Sistem Informasi di Universitas Malikussaleh yang tertarik mempelajari web development.
 
 ### Bahasa & Tools
 <p align="left">
@@ -16,7 +16,3 @@ Mahasiswa S1 Sistem Informasi di Universitas Malikussaleh yang tertarik mempelaj
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
-
-### Kontak
-- **Email:** Isukirman196@gmail.com
-- **GitHub:** [AzrilRyzcho](https://github.com/AzrilRyzcho)
