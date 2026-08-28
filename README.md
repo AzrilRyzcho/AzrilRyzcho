@@ -2,8 +2,6 @@
 
 # Halo, Saya M. Azril Rayzicho Sorongan 👋
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/animated-icons/cat-typing.gif" width="280" alt="Pixel Cat Typing" />
-
 </div>
 
 ### Tentang Saya
