@@ -1,6 +1,6 @@
 <!-- Header Banner Otomatis Modern -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Halo,%20Saya%20Azril%20👋&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=S1%20Sistem%20Informasi%20•%20Universitas%20Malikussaleh&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="github_banner_azril.jpg" width="100%">
 </div>
 
 ## Tech Stack
