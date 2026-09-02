@@ -1,16 +1,32 @@
-<div align="center">
+![Header](./img/github-header-banner.png)
 
 # Halo, Saya M. Azril Rayzicho Sorongan 👋
 
-</div>
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,vscode,git,github&theme=dark&perline=8)](https://skillicons.dev)
+<br/>
 
-### Tentang Saya
-Saya Mahasiswa S1 Sistem Informasi di Universitas Malikussaleh yang tertarik mempelajari web development.
+## About Me
 
-### Bahasa & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
+**Saya Mahasiswa S1 Sistem Informasi di Universitas Malikussaleh yang tertarik mempelajari dan mengembangkan Web Development.**
+
+**Currently exploring Laravel, Web Development, and Software Engineering while building personal and academic projects.**
+
+## GitHub Stats
+![](https://streak-stats.demolab.com/?user=AzrilRyzcho&theme=shadow_blue&hide_border=true)<br/>
+
+## Play With Me
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzrilRyzcho/AzrilRyzcho/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzrilRyzcho/AzrilRyzcho/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AzrilRyzcho/AzrilRyzcho/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/AzrilRyzcho/AzrilRyzcho/snake-output/snake.svg" alt="Snake animation" />
+
+###
